@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "mod1"
+		},
+		{
+			"path": "work1"
+		}
+	],
+	"settings": {
+		"go.languageServerFlags": [
+			"-rpc.trace",
+			"-debug=localhost:6060"
+		],
+		"gopls": {
+			"verboseOutput": true
+		}
+	}
+}
